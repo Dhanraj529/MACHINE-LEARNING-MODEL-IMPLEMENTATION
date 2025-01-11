@@ -44,3 +44,9 @@ NumPy: Essential for numerical operations and handling arrays and matrices, whic
 Scikit-learn: A powerful library that provides a range of machine learning algorithms for classification, regression, clustering, and more. It also includes tools for model evaluation and hyperparameter tuning.
 Matplotlib/Seaborn: Libraries used for data visualization, helping to visualize the relationships between features and the model’s performance.
 TensorFlow/PyTorch: For more complex deep learning models, TensorFlow and PyTorch are the leading frameworks for building neural networks and advanced models.
+
+
+#Output :
+
+![WhatsApp Image 2025-01-11 at 21 22 27_debcf024](https://github.com/user-attachments/assets/18e79ec9-9140-4648-a918-bab46eee48ca)
+![WhatsApp Image 2025-01-11 at 21 22 42_51ea3eb9](https://github.com/user-attachments/assets/0dd53590-6869-4a84-b789-32c6a4f52f76)
